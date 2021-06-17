@@ -1,0 +1,44 @@
+/* View  */
+.box-large-image__midea {
+    border-radius: 40px;
+}
+
+.box-large-image__wrap .heading-wrap .heading {
+    transform: translateY(-100%);
+    opacity: 0;
+}
+.box-large-image__wrap:hover .heading-wrap .heading {
+    transform: translateY(0%);
+    opacity: 1;
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+}
+
+.float-r {
+    float: right;
+}
+
+.btnStore{
+    margin: 5px 10px;
+}
+
+.img-fulid.mobileThumb {
+    height: 450px !important;
+    width: auto !important;
+    max-width: 100% !important;
+    padding: 15px;
+}
+
+/* Mobile app icon google store / app store  */
+.block {
+    display: initial;
+}
+
+.none {
+    display: none;
+}
+.pointerNone {
+    pointer-events: none;
+}

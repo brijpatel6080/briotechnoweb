@@ -1,0 +1,35 @@
+.about-page .button-text{
+    display: none;
+  }
+  
+  
+.ht-box-images.style-06 .image-box-wrap {
+    padding: 70px 30px 35px;
+    min-height: 400px;
+    margin-top: 0;
+}
+
+.minus10 {
+  position: relative;
+  top: -10
+}
+
+.faq-wrapper .card-header h5 button[aria-expanded="true"] {
+  color: #ffffff !important;
+  background: #00b4fa;
+}
+
+
+.ht-box-icon.style-03 .icon-box-wrap .content-header .heading, 
+.ht-box-icon.style-03 .icon-box-wrap .text {
+  color: #fff;
+}
+.ht-box-icon.style-03:hover .icon-box-wrap .content-header .heading,
+.ht-box-icon.style-03:hover .icon-box-wrap .text {
+  color: #0055c1;
+}
+
+.ht-box-icon.style-03 .icon-box-wrap .content-header .icon {
+  color: #00b5fa;
+}
+

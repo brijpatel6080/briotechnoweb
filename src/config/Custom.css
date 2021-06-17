@@ -1,0 +1,121 @@
+.infotechno-bg {
+    background: #f4efe9 none repeat scroll 0% 0%;
+    margin-top: 65px;
+}
+
+.react-multiple-carousel__arrow{
+    z-index: 1;
+}
+
+/* Theme Color Start
+================================================================= */
+
+
+.row-separators-bg {
+    /* background: #f8f8f8; */
+    /* background: #dddddd !important; */
+    /* background: linear-gradient(#2b5876b8, #4e4376c2) !important; */
+    /* background: linear-gradient(rgb(58, 58, 58), rgb(173, 173, 173) ) !important; */
+    /* background: linear-gradient(rgb(17 112 239), rgb(43 202 249) ) !important; */
+    background: linear-gradient(rgb(0 85 193), rgb(43 202 249) ) !important;
+    /* background: linear-gradient(45deg, red, blue) !important; */
+    /* background: linear-gradient(135deg, orange 60%, cyan) !important; */
+    /* #2b5876 → #4e4376 */
+}
+
+/* Buttons  */
+.ht-btn {
+    color: #ffffff;
+    background: #0055c1;
+}
+.ht-btn:hover {
+    color: #ffffff;
+    background: #29c4f8;
+    box-shadow: 0 0 9px 0 #0055c1;
+}
+
+
+/* Heading  */
+
+.ht-box-images.style-03 .image-box-wrap .content .heading {
+    color: #fff;
+    text-transform: uppercase;
+}
+.ht-box-images.style-03:hover .image-box-wrap .content .heading {
+    color: #0055c1;
+}
+
+.ht-timeline.style-01 .line {
+    border-left: 3px solid #001733;
+    opacity: 0.2;
+}
+
+@media (max-width: 1200px){
+    .rv-video-section .ht-banner-01 img {
+        top: -160px;
+    }
+    .ht-box-images.style-09 .image-box-wrap .content .more-arrow-link a {
+        color: #fff !important;
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px){
+    .contact-info {
+        margin-bottom: 40px;
+    }
+    .comment-submit-btn {
+        text-align: center;
+    }
+    .footer-copyright-area {
+        padding: 20px 0;
+    }
+}
+@media (max-width: 600px){
+
+    .serviceitem {
+        margin-bottom: 30px;
+    }
+    .serviceitem:last-child {
+        margin-bottom: 0px;
+    }
+    .contact-info.sytle-one .contact-list-item .single-contact-list, .contact-info.style-two .contact-list-item .single-contact-list {
+        justify-content: center;
+        display: flex;
+    }
+}
+
+@media (max-width: 575px){
+    .footer-widget-wrapper {
+        justify-content: center;
+        display: grid !important;
+    }
+}
+
+
+
+/* Clients Logo  */
+
+.client .img-fluid{
+    height: 140px !important;
+    width: auto !important;
+    background: #c9c9c987;
+    padding: 15px;
+    border-radius: 30px;
+    opacity: 0.7;
+    margin-top: 5px;
+}
+.client .img-fluid:hover{
+    height: 140px !important;
+    width: auto !important;
+    background: #c9c9c987;
+    padding: 15px;
+    border-radius: 30px;
+    opacity: 1;
+    box-shadow: 0 0 9px 0;
+}
+
+.react-multiple-carousel__arrow {
+    background: rgb(0 87 223);
+}

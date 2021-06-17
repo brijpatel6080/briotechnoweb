@@ -1,0 +1,64 @@
+.about-page .button-text{
+    display: none;
+  }
+  
+  
+.ht-box-images.style-06 .image-box-wrap {
+    padding: 70px 30px 35px;
+    min-height: 400px;
+    margin-top: 0;
+}
+
+
+.contact-info.style-two .contact-list-item .content .main-content .text {
+  font-size: 16px;
+    font-weight: 500;
+    line-height: 0px;
+}
+
+
+
+.contact-info.style-two .contact-list-item .content .icon {
+  font-size: 20px;
+  min-width: 40px;
+}
+
+.contact-info.style-two .contact-list-item .content {
+  margin-top: 26px;
+}
+
+.ht-star-rating.lg-style {
+  color: #fb0;
+  font-size: 16px;
+}
+
+ .social-link:hover {
+    color: #086AD8 !important;
+}
+
+.contact-info.sytle-one .contact-list-item .content .main-content .text, .contact-info.style-two .contact-list-item .content .main-content .text {
+  color: #ffffff;
+}
+.contact-info.style-two .contact-list-item .content .icon {
+  color: #2cc3ff;
+}
+
+.ht-social-networks i {
+  color: #076bef !important;
+}
+.ht-social-networks i:hover {
+  color: #f0f6ff !important;
+}
+
+@media (max-width: 991px){
+.submit-btn {
+    text-align: center;
+}
+}
+
+@media (max-width: 600px){
+.contact-info.sytle-one .contact-list-item .single-contact-list, .contact-info.style-two .contact-list-item .single-contact-list {
+    justify-content: left;
+    display: flex;
+}
+}

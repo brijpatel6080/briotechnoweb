@@ -1,0 +1,30 @@
+.ht-box-images.style-01 .image-box-wrap {
+    padding: 30px 30px 45px;
+}
+
+.ht-box-images.style-01 .image-box-wrap .box-image {
+    margin-bottom: 20px;
+}
+
+.separators-space {
+    padding-top: 50px;
+    padding-bottom: 160px;
+}
+.row-separators-bg {
+    background: #f2f2f2;
+}
+
+.SSS .img-fluid {
+    max-width: 100%;
+    height: 200px !important;
+    width: 100% !important;
+}
+
+.ht-box-images.style-09 .image-box-wrap .content .heading, 
+.ht-box-images.style-09 .image-box-wrap .content .text {
+    color: #ffffff;
+}
+.ht-box-images.style-09:hover .image-box-wrap .content .heading, 
+.ht-box-images.style-09:hover .image-box-wrap .content .text {
+    color: #0055c1;
+}

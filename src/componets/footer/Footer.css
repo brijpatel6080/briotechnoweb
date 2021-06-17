@@ -1,0 +1,57 @@
+a:hover {
+    text-decoration: none !important;
+}
+
+.ht-social-networks.flat-round .social-link, .ht-social-networks.solid-rounded-icon .social-link {
+    font-size: 16px;
+    height: 40px;
+    width: 40px;
+    line-height: 30px;
+}
+
+a, button {
+    color: #696969 !important; 
+    display: inline-block;
+    line-height: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.hover-style-link:hover {
+    color: #d2a98e !important;
+}
+
+.footer-widget__title {
+    margin-top: -3px;
+    color: #333333;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* .reveal-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+} */
+
+
+.mobile-menu-overlay__body .offcanvas-navigation > ul > li > a, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li > a {
+    color: #ffffff !important;
+    font-size: 20px;
+    padding: 13px 0px;
+}
+.mobile-menu-overlay__body .offcanvas-navigation > ul > li.has-children .sub-menu li a, .page-oppen-off-sidebar__body .offcanvas-navigation > ul > li.has-children .sub-menu li a {
+    color: rgba(255, 255, 255, 0.7) !important;
+    font-size: 19px;
+    padding: 13px 0px;
+}
+
+.footer-widget__logo .img-fluid{
+    width: 150px;
+}
+
+.social-link {
+    pointer-events: none;
+}

@@ -1,0 +1,21 @@
+.ht-timeline.style-01 .timeline-col .inner .year {
+    font-size: 35px;
+    padding-top: 12px;
+    margin-bottom: 5px;
+}
+.ht-timeline.style-01 .timeline-info .inner {
+    padding-top: 15px;
+}
+.ht-timeline.style-01 .item + .item {
+    margin-top: 40px;
+}
+
+.ht-gradation.style-01 .circle-wrap {
+
+    margin-bottom: 25px;
+}
+
+.img-fluid.ItemImage{
+    height: 250px;
+    width: auto;
+}

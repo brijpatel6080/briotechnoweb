@@ -1,0 +1,13 @@
+
+.projects-slider__container .projects-wrap.style-01 .projects-image-box {
+    margin: 5px 15px 15px !important;
+}
+
+.projects-wrap.style-01 .content {
+    padding: 25px 26px 60px !important;
+}
+
+.projects-wrap.style-01 .content .box-projects-arrow{
+    height: 40px !important;
+    line-height: 40px !important;
+}

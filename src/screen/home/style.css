@@ -1,0 +1,24 @@
+.rv-video-section .ht-banner-02 img {
+    position: absolute;
+    left: 50%;
+    top: -185px;
+    max-width: 230px;
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1499px){
+.rv-video-section .ht-banner-01 img {
+    left: 6%;
+    top: -170px;
+    width: 200px;
+}
+}
+
+.rv-video-section .main-video-box {
+    position: relative;
+    z-index: 8;
+    text-align: center;
+    max-width: 570px;
+    /* max-height: 350px; */
+    margin: auto;
+    margin-top: 200px;
+}

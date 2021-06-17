@@ -1,0 +1,176 @@
+{
+  "mobileApps": [
+    {
+      "appName": "Order King Restaurant",
+      "appDetail": "Language: react native, Device: Android, Iphone",
+      "appPlayStore": "",
+      "appAppStore": "",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/orderKingResto/orderKingResto.png",
+      "id": 7
+    },
+    {
+      "appName": "Zeltron Pharmaceutical Pvt. Ltd.",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/zeltron/zppl.png",
+      "appDetail": "Zeltron Pharmaceuticals Pvt. Ltd. Is Gujarat based company established in 2016.We are highly involving in manufacturing , marketing, import & export of Higher Antibiotics & Antifungals, Pain Management,Nutritional, Gastroenterology, Respiratory care and other therapies which are on pipeline. Language : Codegniter, Ajax, Javascript, Jquery, Mysql, Html, Css, Bootstrap",
+      "appPlayStore": "",
+      "appAppStore": "",
+      "id": 8
+    },
+    {
+      "appName": "Swift Vibe",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/SwiftVibe/SwiftVibe.png",
+      "appDetail": "Language: react native, Device: Android, Iphone",
+      "appPlayStore": "",
+      "appAppStore": "",
+      "id": 9
+    },
+    {
+      "appName": "Instacoup",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/insta_coup/insta_coup.png",
+      "appDetail": "Instacoup is a mobile application, working on all kind of mobile platforms, to provide you with discount coupons of restaurants and cafes. Avail these coupons from our application and use them to get discount while placing your order., Language: react native, Device: Android, Iphone",
+      "appPlayStore": "",
+      "appAppStore": "",
+      "id": 10
+    },
+    {
+      "appName": "ABClearn",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/ABClearn/ABClearn.png",
+      "appDetail": "We are group of passionate professional ls who are experienced into multiple technologies and dedicated ourselves for IT trainings. We have  embraced  the  technology  to  give outstanding quality training at fair price. ABCLeam.com is the destination for aspiring professionals into latest technologies., Language: react native, Device: Android, Iphone ",
+      "appPlayStore": "",
+      "appAppStore": "",
+      "id": 12
+    },
+    {
+      "appName": "iImprove Fitness",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/iImproveFitness/ImproveFitness.png",
+      "appDetail": "The ultimate fitness app that not only in­ cludes workout videos and recipes but new content is added every month to help everyone reach their fitness goal. This app also includes a feature that allows you to communicate with a certified trainer and holistic nutritionist with any questions you may have. There's also a loy­ alty program to earn free stuff and each app user will receive all exclusive ilmprove Fitness news, events and merchandise  offers and give­ aways first., Language: react native, Device: Android, Iphone",
+      "appPlayStore": "https://play.google.com/store/apps/details?id=com.iimprove",
+      "appAppStore": "https://apps.apple.com/in/app/iimprove-fitness/id1447745596",
+      "id": 13
+    },
+    {
+      "appName": "Planmesh: Plan with friends",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/planmesh/planmesh.png",
+      "appDetail": "Plan the things you love to do with your friends both online and in person. Planmesh helps you make plans with friends, share plans, see what others are up to, and keep track of upcoming events. Plan get-togethers, brunch, study sessions, your next date, you name it! Download the Planmesh app and create your own events or join one of the events your friends have planned.",
+      "appPlayStore": "https://play.google.com/store/apps/details?id=com.planmesh&hl=en_IN&gl=US",
+      "appAppStore": "",
+      "id": 14
+    },
+    {
+      "appName": "Katavahi - Credit Debit Entry Book",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/Katavahi/Katavahi.png",
+      "appDetail": "KHATAVAHI : Multiple account debit & credit ledgering, Auto opening closing balance, Reports with social media sharing, Personal & Business Income Expense, Total Due & Receivable. PDF & EXCEL REPORTS. | INTRODUCTION : The application is basically maintain multiple accounts  income/credit  and expense/debit and give closing balance for each accounts and also give you overall closing balance  of your per­ sonal or business/ how much receivable or pay­ able. | DAILY ACCOUNTING : Khatavahi created with the intension of make small business entrepreneur and startups  to keep their daily accounting in simple way.They can maintain their account anywhere or any time., Language: react native, Device: Android, Iphone",
+      "appPlayStore": "",
+      "appAppStore": "",
+      "id": 15
+    },
+    {
+      "appName": "Ecafez 360",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/Ecafez360/Ecafez360.png",
+      "appDetail": "Ecafez 360 is a Tata Steel App Get your latest update related Tata Steel news, Brand promotion of ECA brands, Best practices and Mastercraft stories for customers, ECA Distributor Parivaar details and updates and Customer Connect Activities details. Upload your own story and publish it to all Distribution Channel.",
+      "appPlayStore": "https://play.google.com/store/apps/details?id=com.ecafe360&hl=en_US",
+      "appAppStore": "",
+      "id": 16
+    },
+    {
+      "appName": "Family-40",
+      "appDetail": "This application is basically developed for 'Jadavji Meraji Family' for easily access the detail of family member at any time with free of cost.",
+      "appPlayStore": "https://play.google.com/store/apps/details?id=com.myvs.family40",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/families/families.png",
+      "appAppStore": "",
+      "P1": "http://sakhaa.co.in/briotech/img/services/mobile_app/Katavahi/Katavahi.png",
+      "P2": "http://sakhaa.co.in/briotech/img/services/mobile_app/Katavahi/Katavahi.png",
+      "P3": "http://sakhaa.co.in/briotech/img/services/mobile_app/Katavahi/Katavahi.png",
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "A4": "",
+      "id": 17
+    },
+    {
+      "appName": "Beauty Salon Space",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/mobile_app/BeautySalon/BeautySalon.png",
+      "appDetail": "BEAUTY Salon Space connects salon/barbershop owners and licensed beauty professionals to fill unused salon suites and salon stations on a temporary basis Booking App. At Beauty Salon Space, our goal is to make finding and booking available salon spaces simple, fast and available 24/7 to beauty professionals anywhere on the map. What’s better than being in business for yourself? Having that business really take off! With Beauty Salon Space whether you are an independent beauty professional or a salon owner, you know that renting salon space can be one of the most difficult obstacles. With our intuitive app, users can conveniently find available salon/barbershop spaces on the go.",
+      "appPlayStore": "https://play.google.com/store/apps/details?id=com.salonspace",
+      "appAppStore": "",
+      "id": 18
+    }
+  ],
+  "WebApps": [
+    {
+      "appName": "INTERNATIONAL GRAPHIC MACHINERY",
+      "appLink": "http://www.intemationalgraphicmachinery.com",
+      "appLanguage": "Codegniter, Ajax, Javascript, Jquery, mysql, Html, Css, Bootstrap",
+      "appDetail": "We are long established dealer selling to the United State of America & overseas markets. The company specializes in supplying top quality printing. Pre-Press, Post-Press, Materials, finishing Equipment and Spare parts. We are specialize in the trade and projection of quality second-hand and sheet-fed and web offset presses from leading manufacturers. Moreover we distribute binding machinery & carry out or arrange dismantling ship­ ping and reinstallation. We deliver quality, service with more than 500 satisfied customers. The company is located in Northerfield, Illinois towards West India. The Resources available to us allow Graphics to acquire high quality, late model machines, offering options and significant savings over new equip­ ment's. To meet customer demand our sales staff travels extensively locating, inspecting and purchasing top quality printing equipment.",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/websites/IGM/IGM.png",
+      "ImageHome": "http://sakhaa.co.in/briotech/img/services/websites/IGM/IGMhome.jpg",
+      "id": 6
+    },
+    {
+      "appName": "Avani Food Products",
+      "appLink": "http://avanifood.com",
+      "appLanguage": "Html, Css, Bootstrap, javascript",
+      "appDetail": "Established in 1981, Avani Food Products is engaged in manufacturing and processing of Casein products, located in Mehsana - the 'Milk City' of Gujarat known for its significant presence and contribution in the dairy industry of Gujarat. Since this decade was the decade of product development & technology transformation in the dairy industry, so Avani Food Products has developed new products, process and operational tech­ niques to meet customised needs of our clients. We have also developed several value added products exclusive for our clients to make sure that our product meet customer expectation and add value to their business and make it a win- win situation.",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/websites/Avani/Avani.png",
+      "ImageHome": "http://sakhaa.co.in/briotech/img/services/websites/Avani/avaniHome.jpg",
+      "id": 8
+    },
+    {
+      "appName": "PATIDAR  CHEMICAL",
+      "appLink": "http://patidarchemical.com",
+      "appLanguage": "Html, Css, Bootstrap, javascript",
+      "appDetail": "The business has started from 2000 with Government Hospital, Semi Government Hospital, Private Hospital, Corporate industrial, Dairy, School and college.",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/websites/Patidar/Patidar.png",
+      "ImageHome": "http://sakhaa.co.in/briotech/img/services/websites/Patidar/patidarHome.jpg",
+      "id": 9
+    },
+    {
+      "appName": "Desh Ki Dukan",
+      "appLink": "https://ecommerce.visioncodes.com",
+      "appLanguage": "Codeigniter, mysql, Html, Css, Bootstrap 4, javascript",
+      "appDetail": "Desh Ki Dukan is the growing company in online selling market. Through constant innovation, unparalleled technology, and customer care delivered at every touch point, Desh Ki Dukan delivers the right thing to the customers instantly more often than any other site or application. Desh Ki Dukan delievers in all over Ahmedabad. Its sites, combined with partnerships and acquisitions, give Desh Ki Dukan a presence in growing market of e-commerce industry.",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/websites/DeshKiDukarn/Desh.png",
+      "ImageHome": "http://sakhaa.co.in/briotech/img/services/websites/DeshKiDukarn/deshHome.jpg",
+      "id": 10
+    },
+    {
+      "appName": "Zeltron Pharmaceutical Pvt. Ltd.",
+      "appLink": "https://www.zeltronpharma.com",
+      "appLanguage": "Codegniter, Ajax,Javascript Jquery, Mysql, Html, Css, Bootstrap",
+      "appDetail": "Zeltron Pharmaceuticals Pvt. Ltd. Is Gujarat based company established in 2016. We are highly involving in manufacturing, marketing, import & export of Higher Antibiot­ ics & Antifungals, Pain Management, Nutri­ tional, Gastroenterology, Respiratory care and other therapies which are on pipeline. All our products are manufacturing with in line compliance as quality standards set by the World Health Organization and also ensure Good Manufacturing Practice system for higher shelf life. Also our state of art warehouse and strong logistic support helps to maintain our quality of each product",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/websites/Zeltron/zeltron.png",
+      "ImageHome": "http://sakhaa.co.in/briotech/img/services/websites/Zeltron/zeltronHome.jpg",
+      "id": 2
+    },
+    {
+      "appName": "Earnest capital",
+      "appLink": "http://www.eamestcapital.in",
+      "appLanguage": "Html, Css, Bootstrap",
+      "appDetail": "An Experienced Team specializing in all types of Investments Avenues: Equity, Deriva­ tives, Commodity, Currency, Mutual Funds, Pri­ vate Equity, Real Estate as well as Advisory in Insurance & Taxation. The Promoter having experience since 2004 caters advisory services to various individuals, corporate, HNis & NRis with the sole objective of 'Wealth Creation'. 'Investor Awareness Program FinGyan' - a constant effort of spreading right knowledge & value creation in the Society.",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/websites/Earnest/Earnest.png",
+      "ImageHome": "http://sakhaa.co.in/briotech/img/services/websites/Earnest/EarnestHome.jpg",
+      "id": 3
+    },
+    {
+      "appName": "DEEP INTENSIVE CARE UNIT",
+      "appLink": "http://www.eamestcapital.in",
+      "appLanguage": "Codegniter, Ajax, Javascript, Jquery, Mysql, Html, Css, Bootstrap",
+      "appDetail": "Deep ICU And Hospital in Industrial Estate, Mehsana is a top player in the category Ambulance Services in the Mehsana. This destination servicing customers both local and from other parts of Mehsana. Over the course of its journey, this business has established a firm foothold in it's industry. The belief that custom- er satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which contin­ ues to grow by the day. This business employs individuals that are dedicated towards their re­ spective roles and put in a lot of effort to achieve the common vision and larger goals of the com­ pany.",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/websites/Deep/Deep.png",
+      "ImageHome": "http://sakhaa.co.in/briotech/img/services/websites/Deep/DeepHome.jpg",
+      "id": 4
+    },
+    {
+      "appName": "Habteq Solution",
+      "appLink": "http://habteqsolutions.com",
+      "appLanguage": "Wordpress, mysql, Html, Css, Bootstrap",
+      "appDetail": "HABTAQ Solution Pvt Ltd is an offshore de- velopment outsourcing IT  company. Incepted in the year 2006, Agile Infoways is doing an astonish­ ing work on the ground of IT fraternity. We have the global presence in India, USA as well as Canada with a team of 200+ in-house talents. HABTAQ Solution holds expertise in web- site/application development as per clients' requirements. We are specialist in delivering inno­ vative and reliable products to meet our client's need with almost quality and wavering business ethics, with great emphasis on the agile methodol­ ogy. We aim to contribute in the technological era by delivering enhanced and compelling products with effective productivity schemes, and execut­ ing business ethics to meet the industry require­ ments for people out in the world.",
+      "appImage": "http://sakhaa.co.in/briotech/img/services/websites/Habteq/Habteq.png",
+      "ImageHome": "http://sakhaa.co.in/briotech/img/services/websites/Habteq/HabteqHome.jpg",
+      "id": 5
+    }
+  ],
+  "ManualTesting": [
+    {}
+  ]
+}

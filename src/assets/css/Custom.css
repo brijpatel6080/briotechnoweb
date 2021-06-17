@@ -1,0 +1,39 @@
+
+/* Shape top bottom Triangle */
+.vc_row-separator.white {
+    top: 0px;
+}
+
+.separators-space {
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+.vc_row-separator.white svg {
+    height: 60px;
+    width: 100%;
+}
+.row-separators-bg {
+    background: #f8f8f8;
+}
+
+
+
+/* Contact us  */
+
+.infotechno-contact-us-bg1 {
+    /* background-image: url(/static/media/home-infotechno-contact-bg.5b2dee3a.jpg); */
+    background-image: none;
+    background-color: #ffffff;
+}
+
+.service-contact-bg {
+    background-color: #333333;
+}
+
+
+.ht-tab-menu li a.active {
+    color: #ffffff;
+    border-color: transparent !important;
+    box-shadow: inset 0px 0px 5px 0px #086ad8;
+}

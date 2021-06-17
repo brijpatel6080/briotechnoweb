@@ -1,0 +1,101 @@
+.header-area .is-sticky {
+    position: fixed;
+    /* position: -webkit-sticky;
+	position: sticky; */
+	top: 0;
+    left: 0;
+    width: 100%;
+    -webkit-animation: .95s ease-in-out 0s normal none 1 running fadeInDown;
+    animation: .95s ease-in-out 0s normal none 1 running fadeInDown;
+    z-index: 999;
+    -webkit-transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -o-transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
+    -webkit-box-shadow: 0 8px 20px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 8px 20px 0 rgb(0 0 0 / 10%);
+    background-color: #fff;
+}
+
+.navigation-menu > ul > li.has-children > a:after {
+    display: none;
+}
+
+.dropdown-icon {
+    font-size: 18px !important;
+    /* position: absolute;
+    margin: 2px 0 0 2px; */
+}
+
+.navigation-menu > ul > li > a {
+    display: block;
+    color: #000000 !important;
+    padding: 21px 2px !important;
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    -webkit-transition: all 0.0s ease-in-out;
+    -o-transition: all 0.0s ease-in-out;
+    transition: all 0.0s ease-in-out;
+}
+.header.default-menu-style .header__logo {
+    padding: 8px 0;
+}
+
+
+.navigation-menu > ul > li > a.active {
+    border-bottom: 3px solid #086AD8;
+}
+.navigation-menu > ul > li > a > .submenu a.active {
+    border-bottom: 3px solid #086AD8;
+}
+.submenu{ 
+    padding: 0px;
+}
+.submenu > li > a {
+    padding: 8px 25px;
+    border-bottom: 1px solid #dfdfdf;
+}
+.submenu > li > a:hover, .submenu > li > a.active  {
+    background: #086ad8;
+    color: white !important;
+}
+
+.navigation-menu > ul > li > a:before {
+    bottom: -3px;
+}
+
+.header__logo > a img {
+    width: 130px;
+}
+
+
+/* Top Header 
+======================================== */
+
+.header-right-inner {
+    display: contents;
+}
+
+.header-right-box .swiper-slide {
+    float: left;
+}
+/* .header-top-info-slider-werap {
+    overflow: hidden;
+    width: 45%;
+} */
+.header-top-info-inner .info-item {
+    padding: 0 15px;
+}
+
+/* ================ w3 */
+
+/* .sticky {
+    position: fixed !important;
+    top: 0 !important;
+    width: 100% !important;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  } */

@@ -1,0 +1,64 @@
+
+
+.brand-logo-slider__one .brand-logo .brand-logo__image-hover{
+    align-self: center !important;
+    text-align: center !important;
+    position: relative;
+}
+
+.brand-logo-slider__one .brand-logo .brand-logo__image-hover img {
+    position: absolute;
+    bottom: 0px;
+    justify-content: center;
+    display: block;
+}
+
+.swiper-slide.brand-logo {
+    transition: all .4s linear;
+    /* background: #c9c9c987; */
+    background: #e1e1e1;
+    height: 130px;
+    border-radius: 20px;
+    /* display: block; */
+    display: flex;
+    margin: 10px;
+}
+
+.clients .img-fluid{
+    max-height: 130px !important;
+    width: auto !important;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 1;
+    filter: grayscale(1);
+    transform: scale(0.8, 0.8) !important;
+}
+.clients:hover .img-fluid{
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0);
+    opacity: 1;
+    transform: scale(1.1, 1.1) !important;
+}
+.clients:hover{
+    transform: scale(1.1, 1.1) !important;
+    cursor: grab;
+    /* margin: 9px -10px; */
+    box-shadow: 0 0 7px 0;
+}
+
+.brand-logo-slider__one .brand-logo:hover .brand-logo__image {
+    /*visibility: hidden;
+    *//*opacity: 0;
+    */visibility: visible !important;
+    opacity: 1 !important;
+    transform: scale(0.8, 0.8) !important;
+    filter: grayscale(0);
+}
+
+
+/* .swiper-wrapper.brand-logo-slider__one{
+    display: -webkit-box;
+}
+.react-multi-carousel-list {
+    margin: 0 auto;
+} */

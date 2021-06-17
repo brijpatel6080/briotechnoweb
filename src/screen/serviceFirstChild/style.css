@@ -1,0 +1,108 @@
+
+.ht-box-images.style-03 {
+    /* box-shadow: 0 0 41px rgb(0 0 0 / 5%); */
+    /* box-shadow: 0 0 41px rgb(0 0 0 / 15%); */
+    /* background: #f8f8f8; */
+    background: #f8f8f800;
+    box-shadow: 0px 0px 2px 0px white;
+    margin: 0 5px;
+}
+.ht-box-images.style-03:hover {
+    /* box-shadow: 0 0 41px rgb(0 0 0 / 3%); */
+    box-shadow: 0 0 41px rgb(0 0 0 / 15%);
+    background: #fff;
+}
+
+.ht-timeline.style-01 .timeline-info .text {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+
+
+
+.ht-box-images.style-03 .image-box-wrap .content .heading {
+    line-height: 24px;
+    font-size: 18px;
+}
+
+.ht-box-images.style-03 .image-box-wrap {
+    max-width: 340px;
+    margin: 0;
+    /* margin: 0 auto; */
+}
+
+.storeImg {
+    display: grid;
+    position: absolute;
+    right: 0;
+}
+.storeImg img {
+    margin-bottom: 20px;
+    width: 25px;
+    height: 25px;
+    z-index: 1111;
+    pointer-events: none;
+    opacity: 0;
+}
+.storeImg img:hover {
+    box-shadow: 0px 0px 20px 0px;
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0);
+}
+
+.ht-box-images.style-03:hover .storeImg img {
+    opacity: 1;
+    filter: grayscale(0);
+}
+
+.ht-box-images.style-03 .image-box-wrap {
+    max-width: 100%;
+}
+.ht-box-images.style-03 .image-box-wrap img.img-fulid {
+    width: 100%;
+    height: auto;
+}
+
+
+.ht-box-images.style-03:hover .storeImg.web {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    /* bottom: 0; */
+    /* left: 0; */
+    z-index: 11;
+    width: 50px;
+    /* background: white;
+    box-shadow: 0px 0px 9px;
+    border-radius: 20px 0px 0 20px;
+    padding: 8px; */
+}
+
+.img-fulid.mobileThumb{
+    height: 400px !important;
+    width: auto !important;
+    max-width: 100% !important;
+}
+
+
+
+@media (max-width: 767px) {
+    .storeImg img {
+        opacity: 1 !important;
+    }
+    .box-image{
+        text-align: center;
+    }
+}
+
+
+/* Mobile app icon google store / app store  */
+.block {
+    display: initial;
+}
+
+.none {
+    display: none;
+}
